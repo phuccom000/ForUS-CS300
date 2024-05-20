@@ -56,7 +56,7 @@ export default function Footer() {
                 <EmailIcon className="text-white large" />
 
                 <a href="#" className="nav-link p-0 text-body-secondary text-white px-1">
-                  nsminh21@apcs.fitus.edu.vn
+                  nhdinh21@apcs.fitus.edu.vn
                 </a>
 
               </li>
@@ -64,42 +64,26 @@ export default function Footer() {
                 <EmailIcon className="text-white large" />
 
                 <a href="#" className="nav-link p-0 text-body-secondary text-white px-1">
-                  ndtriet21@apcs.fitus.edu.vn
+                  nhphuc21@apcs.fitus.edu.vn
                 </a>
 
               </li>
               <li className="nav-item mb-2 d-flex flex-row text-warning">
                 <EmailIcon className="text-white large" />
 
-                <a href="#" className="nav-link p-0 text-body-secondary text-white px-1">
-                  nxhoa21@apcs.fitus.edu.vn
-                </a>
-
-              </li>
-              <li className="nav-item mb-2 d-flex flex-row text-warning ">
-                <EmailIcon className="text-white large" />
-
-                <a href="#" className="nav-link p-0 text-body-secondary text-white px-1">
-                  htkha21@apcs.fitus.edu.vn
-                </a>
-
-              </li>
-              <li className="nav-item mb-2 d-flex flex-row text-warning">
-                <EmailIcon className="text-white large" />
                 <a href="#" className="nav-link p-0 text-body-secondary text-white px-1">
                   ntphung21@apcs.fitus.edu.vn
                 </a>
-
               </li>
             </ul>
           </div>
 
           <p className="text-white text-center">©2023-2024 Made with ❤️</p>
-    
+
         </div>
-        
+
       </div>
-      
+
     </footer>
   );
 }
